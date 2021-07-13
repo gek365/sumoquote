@@ -1,4 +1,4 @@
-﻿# Codding Assesment
+﻿# Coding Assesment
 
 ## Requirements
 
