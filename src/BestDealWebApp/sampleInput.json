@@ -1,0 +1,15 @@
+﻿{
+  "source": {
+    "street": "test street",
+    "postalCode": "a3r 5d4",
+    "city": "Regina",
+    "country": "Canada"
+  },
+  "destination": {
+    "street": "test street",
+    "postalCode": "a3r 5d4",
+    "city": "Regina",
+    "country": "Canada"
+  },
+  "dimensions": [1,2,3,4]
+}
